@@ -11,4 +11,5 @@ The workbook contains a worksheet with pivot tables and an Excel chart.
 - Data visualization in Excel
 
 ## Open the project
-The workbook will be uploaded after its contents have been reviewed for public sharing. Open the Excel file in Microsoft Excel to explore the analysis.
+Download `Assignment 3.xlsx` and open it in Microsoft Excel to explore the analysis.
+
